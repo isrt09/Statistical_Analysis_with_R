@@ -22,3 +22,6 @@ k
 
 r<- logical(4)
 r
+
+x <- seq(1,10,length=100)
+x
